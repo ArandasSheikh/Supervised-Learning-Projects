@@ -1,2 +1,8 @@
-# Supervised-Learning-Projects
-A collection of Supervised Machine Learning projects including classification and regression tasks, implemented in Python with real-world datasets.
+# Supervised Learning Projects
+
+This repository contains multiple Supervised Learning projects implemented in Python.
+
+## Projects
+
+1. **Loan Prediction**  
+   Predict loan approval using Decision Tree etc.
